@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there I'm Christian 👋
+
+- 🏫 I’m currently a Data Science student
+- 🌱 I’m currently learning CUDA
 
 <!--
 **cMancio00/cMancio00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
