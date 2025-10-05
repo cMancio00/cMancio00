@@ -1,7 +1,7 @@
 ### Hi there I'm Christian 👋
 
-- 🏫 I’m currently a Data Science student
-- 🌱 I’m currently learning CUDA
+- 💼 I’m a Data Scientist, working in the mobility services industry
+- 🔭 I’m currently working on Generative models
 
 <!--
 **cMancio00/cMancio00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
