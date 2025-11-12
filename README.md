@@ -1,6 +1,6 @@
 ### Hi there I'm Christian 👋
 
-- 💼 I’m a Data Scientist, working in the mobility services industry
+- 💼 I’m a PhD Student at University of Florence
 - 🔭 I’m currently working on Generative models
 
 <!--
